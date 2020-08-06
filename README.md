@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome, traveler!
 
 🔭 Currently working on building API things for the [Veracode](https://veracode.com) platform.
 
